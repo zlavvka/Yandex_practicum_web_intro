@@ -1,0 +1,1 @@
+This work was done with intro part of the course prepared by yandex. Web development is popular, so everuone should know at least basics (HTML, CSS). Repository was uploaded with Git Bush.
